@@ -1,6 +1,6 @@
 # culinary
 
-for data using json API
+for data using json API using **db.json**
 
 ## Project setup
 ```
