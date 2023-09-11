@@ -1,5 +1,7 @@
 # culinary
 
+for data using json API
+
 ## Project setup
 ```
 npm install
